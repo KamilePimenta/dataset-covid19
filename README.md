@@ -1,17 +1,17 @@
 # Python + Pandas + Jupyter
 
-Este é um pequeno projeto de análise de dado a partir de um dataset (minha primeira interação com `Python`). Infelizmento o arquivo .csv presente nesta aplicação não pôde ser adicionado ao repositório remoto do `GitHub` devido a um limite de tamanho de arquivo.
+Este é um pequeno projeto de análise de dado a partir de um dataset (minha primeira interação com `Python`). Infelizmente o arquivo .csv presente nesta aplicação não pôde ser adicionado ao repositório remoto do `GitHub` devido a um limite de tamanho de arquivo.
 
 ## Gostaria de testar o projeto?
 
 Se você sentir-se curioso e queira ter este código em sua máquina, siga os passos:
 
-- Faça o download do arquivo oficial aqui no site [Coronavírus.es.gov.br](https://coronavirus.es.gov.br/painel-covid-19-es)
+- Faça o download do arquivo CSV oficial aqui no site [Coronavirus.es.gov.br](https://coronavirus.es.gov.br/painel-covid-19-es)
 - Crie uma pasta `\datasets` na raiz do projeto e salve o arquivo como: `covid-19-espirito-santo.csv`
 
 Execute os comandos abaixo:
 
-## Recommended IDE Setup
+## IDE Recomendada (eu adoro o VS Code <3)
 
 - [VSCode](https://code.visualstudio.com/)
 
